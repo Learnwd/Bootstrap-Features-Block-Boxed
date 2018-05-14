@@ -1,0 +1,84 @@
+.features-boxed {
+	padding: 120px 0;
+    font-family: "raleway", sans-serif;
+}
+
+.features-boxed h1 {
+	margin-bottom: 45px;
+}
+
+.features-boxed h3 {
+	font-size: 16px;
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.features-boxed p {
+	margin-bottom: 45px;
+}
+
+.features-boxed .features {
+	padding: 50px 0;
+}
+
+.features-boxed .item {
+	text-align: center;
+	border: 2px solid #eaeaea;
+	margin: 10px;
+}
+
+.features-boxed .item .box {
+	text-align: center;
+	padding: 30px 15px;
+	background-color: #fff;
+	margin-bottom: 30px;
+}
+
+.features-boxed .item .icon {
+	font-size: 46px;
+	color: #fd0301;
+	margin-top: 20px;
+	margin-bottom: 35px;
+}
+
+.features-boxed .item h3 {
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 8px;
+	margin-top: 0;
+	color: inherit;
+}
+
+.features-boxed .item p {
+	font-size: 15px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.features-boxed .btn {
+	padding: 9px 26px;
+	background-color: #fd0301;
+	color: #FFF;
+	display: inline-block;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	text-decoration: none;
+	border: solid 2px #fd0301;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+}
+
+.features-boxed .btn:hover {
+	color: #FFF;
+	background-color: #1f69ff;
+	border-color: #1f69ff;
+}
+
+.features-boxed .btn.btn-round {
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	min-width: 150px;
+}
